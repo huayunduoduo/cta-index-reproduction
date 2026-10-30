@@ -1,0 +1,4 @@
+code,fits,point_failures,bootstrap_requested,bootstrap_valid,insufficient_days,bootstrap_attempts
+000300.XSHG,1887,0,1887000,1887000,0,1905940
+000001.XSHG,1892,0,1892000,1892000,0,1892192
+399006.XSHE,1897,0,1897000,1897000,0,1897154

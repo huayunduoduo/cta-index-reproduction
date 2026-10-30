@@ -1,0 +1,34 @@
+{
+  "status": "COMPLETED",
+  "B": 1000,
+  "bootstrap": "recursive standardized residual AR-GARCH; joint refit each sample",
+  "expected_daily_fits": 5676,
+  "daily_sha256": "430bf227e7c689d12898912ed0bb080e67977e16eeb089681633e4db0eb2d9b7",
+  "minute_sha256": "1bc2f6ca81154c19e60c3488440c0922281418f697f6ac265e1d418d52576fe7",
+  "start": "2020-01-01",
+  "end": "2026-05-31",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3"
+  },
+  "elapsed_seconds": 221.5559642314911,
+  "completed_daily_fits": 5676,
+  "executed_source_sha256": {
+    "verify.py": "02b452c1f5e3bb7d802491817e72ec4366a01dfc7784fdb03ce235d082783c58",
+    "report.py": "bc48764c2a95b98a8d0b711c1a416606da48958bbd34a6a53131db099994b58b",
+    "engine.py": "1a93faf70f6e28c105749f012351ef64655fa2fe348ae4a13236c337f4ba1129",
+    "run.py": "5b39f8b99061d78641fe7596522f22965ada825355e23863495b5d67218d2b30",
+    "model.py": "a734e10ba66ef50ac6e29e78cd789392448c2e69d680fc459f26c91289a1a0da",
+    "native/model.cpp": "de5d0db13917698dadbb0ac8047a743acd192935811016b0f01a782ec13f2fe6"
+  },
+  "delivered_source_sha256": {
+    "verify.py": "39373f7423920b4bdb1aa8cb4a7ab6e761d29cdc7836769c07a4c673a75aeb6d",
+    "report.py": "11225bcc7ba14dd75d4aa755c73dfe0990bd9060d8cae2319e4f34bda401ff7f",
+    "engine.py": "cd3aafb068956c7d905d9322b842eb03237723dabdf55ea4d399399db475208d",
+    "run.py": "80c97ad2afd38111acbe0e78203fee2286fb4687084b74c7210e53c6cd7485d9",
+    "model.py": "d62f0eee5aa7087768f7a1bddd67d29fe8c7bb31d497326245025a663955028c",
+    "native/model.cpp": "de5d0db13917698dadbb0ac8047a743acd192935811016b0f01a782ec13f2fe6"
+  },
+  "formatting_note": "Python delivery source formatted with AST-equivalent unparse after execution; AST checked identical."
+}

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.so
+*.dll
+data/*
+!data/README.md
+# results/full 实际运行结果随仓库提交，供审阅
+*.log
+fit_progress/

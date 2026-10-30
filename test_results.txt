@@ -1,0 +1,13 @@
+test_flat_price_roundtrip_cost (test_full.ModelTests.test_flat_price_roundtrip_cost) ... ok
+test_full_bootstrap_deterministic (test_full.ModelTests.test_full_bootstrap_deterministic) ... ok
+test_future_price_cannot_change_past_nav (test_full.ModelTests.test_future_price_cannot_change_past_nav) ... ok
+test_initial_drawdown (test_full.ModelTests.test_initial_drawdown) ... ok
+test_joint_fit_matches_scipy_objective (test_full.ModelTests.test_joint_fit_matches_scipy_objective) ... ok
+test_native_exact_gradient (test_full.ModelTests.test_native_exact_gradient) ... ok
+test_no_reentry_at_past_open (test_full.ModelTests.test_no_reentry_at_past_open) ... ok
+test_zero_intraday_return_no_overnight_profit (test_full.ModelTests.test_zero_intraday_return_no_overnight_profit) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.208s
+
+OK
