@@ -7,4 +7,6 @@ data/*
 !data/README.md
 # results/full 实际运行结果随仓库提交，供审阅
 *.log
+# 本次运行的进度日志随仓库提交，便于复核运行过程
+!run.log
 fit_progress/

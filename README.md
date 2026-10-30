@@ -67,4 +67,4 @@ summary.csv：3指数×4策略及3基准；yearly.csv：各年；每个日期完
 
 ## GitHub
 
-`.gitignore`排除原数据、虚拟环境、本地编译产物和运行日志。`results/full`下的实际运行结果（净值、交易、信号、summary、report.html）随仓库提交供审阅。运行`python verify.py`检查交付文件哈希。不要把用户提供的数据或研报PDF默认当作可再分发资源。MIT许可仅覆盖本仓库代码，不授予第三方数据与研报权限。
+`.gitignore`排除原数据、虚拟环境、本地编译产物和临时输出。`results/full`下的实际运行结果（净值、交易、信号、summary、report.html）与本次`run.log`随仓库提交供审阅。运行`python verify.py`检查交付文件哈希，全新克隆即可通过。不要把用户提供的数据或研报PDF默认当作可再分发资源。MIT许可仅覆盖本仓库代码，不授予第三方数据与研报权限。

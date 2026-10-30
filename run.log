@@ -1,0 +1,72 @@
+FULL 100/5676 elapsed=4s
+FULL 200/5676 elapsed=7s
+FULL 300/5676 elapsed=11s
+FULL 400/5676 elapsed=16s
+FULL 500/5676 elapsed=19s
+FULL 600/5676 elapsed=22s
+FULL 700/5676 elapsed=26s
+FULL 800/5676 elapsed=30s
+FULL 900/5676 elapsed=40s
+FULL 1000/5676 elapsed=46s
+FULL 1100/5676 elapsed=50s
+FULL 1200/5676 elapsed=55s
+FULL 1300/5676 elapsed=58s
+FULL 1400/5676 elapsed=62s
+FULL 1500/5676 elapsed=66s
+FULL 1600/5676 elapsed=69s
+FULL 1700/5676 elapsed=73s
+FULL 1800/5676 elapsed=77s
+FULL 1900/5676 elapsed=81s
+FULL 2000/5676 elapsed=86s
+FULL 2100/5676 elapsed=90s
+FULL 2200/5676 elapsed=95s
+FULL 2300/5676 elapsed=98s
+FULL 2400/5676 elapsed=101s
+FULL 2500/5676 elapsed=104s
+FULL 2600/5676 elapsed=108s
+FULL 2700/5676 elapsed=112s
+FULL 2800/5676 elapsed=116s
+FULL 2900/5676 elapsed=119s
+FULL 3000/5676 elapsed=122s
+FULL 3100/5676 elapsed=126s
+FULL 3200/5676 elapsed=129s
+FULL 3300/5676 elapsed=133s
+FULL 3400/5676 elapsed=136s
+FULL 3500/5676 elapsed=139s
+FULL 3600/5676 elapsed=143s
+FULL 3700/5676 elapsed=147s
+FULL 3800/5676 elapsed=150s
+FULL 3900/5676 elapsed=154s
+FULL 4000/5676 elapsed=158s
+FULL 4100/5676 elapsed=161s
+FULL 4200/5676 elapsed=165s
+FULL 4300/5676 elapsed=168s
+FULL 4400/5676 elapsed=172s
+FULL 4500/5676 elapsed=175s
+FULL 4600/5676 elapsed=179s
+FULL 4700/5676 elapsed=183s
+FULL 4800/5676 elapsed=186s
+FULL 4900/5676 elapsed=189s
+FULL 5000/5676 elapsed=194s
+FULL 5100/5676 elapsed=197s
+FULL 5200/5676 elapsed=200s
+FULL 5300/5676 elapsed=204s
+FULL 5400/5676 elapsed=207s
+FULL 5500/5676 elapsed=210s
+FULL 5600/5676 elapsed=214s
+       code     strategy  annual_return  max_drawdown    calmar    sharpe  annual_volatility  total_return  days  trades  win_rate  payoff_ratio
+000300.XSHG         full       0.032675     -0.317243  0.102997  0.301022           0.138782      0.218674  1550    62.0  0.483871      1.465846
+000300.XSHG always_trend       0.032051     -0.321224  0.099778  0.267036           0.175932      0.214153  1550    43.0  0.418605      1.802789
+000300.XSHG always_range      -0.030224     -0.354343 -0.085295 -0.151308           0.139015     -0.172021  1550    65.0  0.523077      0.743796
+000300.XSHG       no_atr      -0.005177     -0.309992 -0.016701  0.037546           0.146230     -0.031423  1550    63.0  0.507937      0.993888
+000300.XSHG    benchmark       0.028266     -0.456026  0.061983  0.242441           0.187651      0.187019  1550     NaN       NaN           NaN
+000001.XSHG         full       0.012812     -0.308877  0.041481  0.164082           0.125815      0.081453  1550    60.0  0.516667      1.110334
+000001.XSHG always_trend      -0.050470     -0.437189 -0.115441 -0.251462           0.157015     -0.272787  1550    47.0  0.404255      1.144588
+000001.XSHG always_range      -0.005011     -0.236970 -0.021147  0.019811           0.121936     -0.030427  1550    66.0  0.515152      0.923938
+000001.XSHG       no_atr       0.025274     -0.255239  0.099021  0.262654           0.124580      0.165935  1550    62.0  0.516129      1.260321
+000001.XSHG    benchmark       0.047052     -0.272700  0.172543  0.360953           0.165380      0.326849  1550     NaN       NaN           NaN
+399006.XSHE         full      -0.182537     -0.756415 -0.241318 -0.564989           0.283776     -0.710525  1550    54.0  0.462963      0.462282
+399006.XSHE always_trend       0.220423     -0.274151  0.804020  0.843201           0.283410      2.404926  1550    39.0  0.589744      1.880063
+399006.XSHE always_range      -0.195941     -0.779968 -0.251216 -0.650687           0.275417     -0.738515  1550    57.0  0.473684      0.388555
+399006.XSHE       no_atr      -0.172120     -0.736686 -0.233641 -0.518882           0.284323     -0.687080  1550    53.0  0.509434      0.382842
+399006.XSHE    benchmark       0.139223     -0.570459  0.244055  0.587988           0.295314      1.229409  1550     NaN       NaN           NaN
